@@ -94,7 +94,7 @@ h1 {
 </html>
 ```
 ## SERVER SIDE PROCESSING:
-![alt text](code.png)
+![alt text](code1.png)
 
 ## HOMEPAGE:
 ![alt text](server.png)
