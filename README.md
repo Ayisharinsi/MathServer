@@ -36,6 +36,8 @@ Publish the website in the given URL.
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>Surface area of Right Cylinder</title>
+<title>Ayisha rinsi k</title>
+<title>212223040022</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
@@ -73,6 +75,8 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>Surface area of Right Cylinder</h1>
+        <h2 Ayisha rinsi k</h2>
+        <h3>212223040022</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
@@ -97,7 +101,7 @@ h1 {
 ![alt text](code1.png)
 
 ## HOMEPAGE:
-![alt text](server.png)
+![alt text](web.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
