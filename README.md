@@ -46,9 +46,9 @@ body {
 .edge {
     width: 100%; /* Set width to 100% */
     display: flex;
-    justify-content: center; /* Center the content horizontally */
-    align-items: center; /* Center the content vertically */
-    height: 100vh; /* Set height to 100% of the viewport height */
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; /* 
 }
 .box {
     border: Thick dashed pink;
@@ -56,7 +56,7 @@ body {
     min-height: 300px;
     font-size: 20px;
     background-color: pink;
-    padding: 20px; /* Add padding for better appearance */
+    padding: 20px; 
 }
 .formelt {
     color: black;
