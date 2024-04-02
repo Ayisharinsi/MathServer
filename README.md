@@ -101,7 +101,7 @@ h1 {
 ![alt text](code1.png)
 
 ## HOMEPAGE:
-![alt text](web.png)
+![alt text](final.png)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
